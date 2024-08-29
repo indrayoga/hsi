@@ -1,5 +1,6 @@
 ---
 title: Tauhid
+layout: home
 nav_order: 2
 ---
 
