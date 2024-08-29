@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Catatan Belajar di HSI
+description: Halaman ini digunakan untuk catatan belajar di HSI
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://indrayoga.github.io/hsi
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
